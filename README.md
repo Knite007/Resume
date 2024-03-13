@@ -48,9 +48,6 @@ Relevant Coursework:
    - Developed dashboards in Tableau to track key HR metrics such as employee turnover rates and performance evaluations.
    - Identified trends and patterns to improve talent acquisition and retention strategies.
 
-**Work Experience:**
-[If applicable, list any internships or part-time positions relevant to data analysis.]
-
 **Certifications:**
 [Power Bi Data Analyst from Datacamp]
 
