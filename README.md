@@ -14,7 +14,6 @@ Seeman098@gmail.com
 
 **Professional Summary:**  
 Analytically-minded and detail-oriented Data Analyst with expertise in Power BI, Python, SQL, Excel, and Tableau. Strong problem-solving skills combined with a solid foundation in data analysis techniques. Successfully completed projects in customer churn analysis, eCommerce analysis, and HR analytics. Eager to leverage skills and knowledge to contribute to data-driven decision-making processes in a dynamic organization.
-
 --
 
 **Education:**
@@ -27,7 +26,8 @@ Relevant Coursework:
 - Database Management Systems
 - Statistics for Data Science
 - Machine Learning Fundamentals
---
+- --
+
 **Technical Skills:**
 - Tools: Power BI, Python, SQL, Excel, Tableau
 - Languages: Python, SQL
@@ -35,7 +35,6 @@ Relevant Coursework:
 - Data Analysis: Data cleaning, Data visualization, Statistical analysis
 - Database Management: MySQL, PostGreSql
 - Machine Learning: Regression, Classification, Clustering
-
 --
 
 **Projects:**
@@ -54,7 +53,6 @@ Relevant Coursework:
    - Analyzed employee performance data using Python and Excel.
    - Developed dashboards in Tableau to track key HR metrics such as employee turnover rates and performance evaluations.
    - Identified trends and patterns to improve talent acquisition and retention strategies.
-
 --
 
 **Certifications:**
@@ -65,6 +63,7 @@ Relevant Coursework:
 - Strong communication and collaboration skills.
 - Ability to work effectively in a team environment and independently.
 --
+
 **Languages:**
 [Tamil,Hindi,English.]
 
