@@ -10,7 +10,6 @@ Seeman098@gmail.com
 **GitHub:** [https://github.com/Knite007]  
 **Portfolio:** [https://www.datacamp.com/portfolio/seeman098]  
 **Twitter:** [https://twitter.com/seeman_v]
-
 --
 
 **Professional Summary:**  
