@@ -17,6 +17,7 @@ Analytically-minded and detail-oriented Data Analyst with expertise in Power BI,
 
 Bachelor of Engineering in [Civil Engineering], [Gct Cimbatore], [2019]
 [CGPA-7.5 (75%)]
+
 Relevant Coursework:
 - Data Analysis and Visualization
 - Database Management Systems
