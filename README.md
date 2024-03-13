@@ -1,9 +1,9 @@
-**[Balu Seeman]**
+**Balu Seeman**
 
-[Madurai]  
-[Madurai,Tamilnadu,India]  
-[Seeman098@gmail.com]  
-[+917598901845]  
+Madurai  
+Madurai,Tamilnadu,India  
+Seeman098@gmail.com
++917598901845  
 
 **LinkedIn:** [https://www.linkedin.com/in/balu-seeman-b3a32a155/]  
 **GitHub:** [https://github.com/Knite007]  
